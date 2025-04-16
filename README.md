@@ -4,7 +4,7 @@
 
 Examples reproducing the results published in the article:
 
-Gasparrini A, Leone M. Attributable risk from distributed lag models. *BMC Medical Research Methodology*. 2014;**14**(1):55. [[freely available here](http://www.ag-myresearch.com/2014_gasparrini_bmcmrm.html)]
+Gasparrini A, Leone M. Attributable risk from distributed lag models. *BMC Medical Research Methodology*. 2014;**14**(1):55. DOI: 10.1186/1471-2288-14-55. PMID: 24758509. [[freely available here](http://www.ag-myresearch.com/2014_gasparrini_bmcmrm.html)]
 
 This methodological article describes how to compute attributable risk measures from distributed lag linear and non-linear models, using functions in the [R package dlnm](https://github.com/gasparrini/dlnm) and the additional `attrdl()` function.
 
